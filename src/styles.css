@@ -105,3 +105,11 @@ ul {
   font-family: "Roboto Condensed", sans-serif;
   font-size: large;
 }
+
+.open-source {
+  display: block;
+  font-size: 15px;
+  font-family: fantasy;
+  color: #42a5f5;
+  text-decoration: underline;
+}
