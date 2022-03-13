@@ -110,6 +110,9 @@ ul {
   text-align: center;
   font-size: 15px;
   font-family: fantasy;
-  color: #42a5f5;
+  color: #5a6275;
+  margin-top: 5px;
+}
+.code-source {
   text-decoration: underline;
 }
